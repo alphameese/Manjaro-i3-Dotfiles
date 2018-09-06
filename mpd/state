@@ -1,0 +1,76 @@
+sw_volume: 100
+audio_device_state:1:MPD
+audio_device_state:1:my_fifo
+state: pause
+current: 13
+time: 56.540000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:PEACH PIT - Sweet FA/PEACH PIT - Sweet FA - 01 Peach Pit.flac
+1:PEACH PIT - Sweet FA/PEACH PIT - Sweet FA - 02 Seventeen.flac
+2:PEACH PIT - Sweet FA/PEACH PIT - Sweet FA - 03 Drop the Guillotine.flac
+3:PEACH PIT - Sweet FA/PEACH PIT - Sweet FA - 04 Sweet FA.flac
+4:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/01. Drop the Guillotine.flac
+5:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/02. Being So Normal.flac
+6:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/03. Techno Show.flac
+7:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/04. Alrighty Aphrodite.flac
+8:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/05. Chagu's Sideturn.flac
+9:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/06. Not Me.flac
+10:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/07. Hot Knifer.flac
+11:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/08. Private Presley.flac
+12:Peach Pit [2017] Being So Normal [Kingfisher Bluez, WEB] [FLAC]/09. Tommy's Party.flac
+13:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/01 - Blue Ribbon.flac
+14:Mac DeMarco - 2 (2012) [FLAC]/01 Cooking Up Something Good.flac
+15:Mac DeMarco - 2 (2012) [FLAC]/02 Dreaming.flac
+16:Mac DeMarco - 2 (2012) [FLAC]/03 Freaking Out The Neighborhood.flac
+17:Mac DeMarco - 2 (2012) [FLAC]/04 Annie.flac
+18:Mac DeMarco - 2 (2012) [FLAC]/05 Ode To Viceroy.flac
+19:Mac DeMarco - 2 (2012) [FLAC]/06 Robson Girl.flac
+20:Mac DeMarco - 2 (2012) [FLAC]/07 The Stars Keep On Calling My Name.flac
+21:Mac DeMarco - 2 (2012) [FLAC]/08 My Kind of Woman.flac
+22:Mac DeMarco - 2 (2012) [FLAC]/09 Boe Zaah.flac
+23:Mac DeMarco - 2 (2012) [FLAC]/10 Sherrill.flac
+24:Mac DeMarco - 2 (2012) [FLAC]/11 Still Together.flac
+25:Roach - Rage.flac
+26:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/01 - Blue Ribbon.flac
+27:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/02 - Song of the Summer.flac
+28:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/03 - Heartstrings.flac
+29:Remo Drive - Greatest Hits 2017/01. Art School.flac
+30:Remo Drive - Greatest Hits 2017/02. Hunting For Sport.flac
+31:Remo Drive - Greatest Hits 2017/03. Crash Test Rating.flac
+32:Remo Drive - Greatest Hits 2017/04. Strawberita.flac
+33:Remo Drive - Greatest Hits 2017/05. Summertime.flac
+34:Remo Drive - Greatest Hits 2017/06. Eat Shit.flac
+35:Remo Drive - Greatest Hits 2017/07. Trying 2 Fool U.flac
+36:Remo Drive - Greatest Hits 2017/08. Yer Killin' Me.flac
+37:Remo Drive - Greatest Hits 2017/09. I'm My Own Doctor.flac
+38:Remo Drive - Greatest Hits 2017/10. Name Brand.flac
+39:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/01 - Blue Ribbon.flac
+40:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/02 - Song of the Summer.flac
+41:Remo Drive - Pop Music [EP] (2018) [FLAC] {WEB}/03 - Heartstrings.flac
+42:R.H.C.P.-Discography.1984-2013.MP3.320/1. Studio Albums/Red Hot Chili Peppers - Blood Sugar Sex Magik (1991) {9 26681-2 CD} [FLAC]/06 - I Could Have Lied.flac
+43:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/01. By The Way.flac
+44:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/02. Universally Speaking.flac
+45:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/03. This Is The Place.flac
+46:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/04. Dosed.flac
+47:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/05. Don't Forget Me.flac
+48:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/06. The Zephyr Song.flac
+49:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/07. Can't Stop.flac
+50:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/08. I Could Die For You.flac
+51:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/09. Midnight.flac
+52:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/10. Throw Away Your Television.flac
+53:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/11. Cabron.flac
+54:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/12. Tear.flac
+55:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/13. On Mercury.flac
+56:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/14. Minor Thing.flac
+57:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/15. Warm Tape.flac
+58:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/16. Venice Queen.flac
+59:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/17. Runaway.flac
+60:Red Hot Chili Peppers - By The Way (Deluxe Version) (2014) WEB FLAC/18. Bicycle Song.flac
+playlist_end
